@@ -1,0 +1,16 @@
+# word loop by making array and using range loop
+
+string = ["my", "name", "is", "khalil"]
+
+for i in string
+    print(i);
+
+
+# Letter loop by making range loop
+
+Letter = "Khalil"
+for i in Letter
+    print(i);
+
+
+# 
