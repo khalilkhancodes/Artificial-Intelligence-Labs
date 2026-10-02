@@ -8,6 +8,7 @@ A collection of lab assignments for learning Python programming fundamentals and
 |-----|-------|-------------|
 | [Lab 1](Lab1/) | Python Fundamentals | Syntax, data types, strings, lists, conditionals, and search algorithms |
 | [Lab 2](Lab2/) | Control Flow, Functions & OOP | Loops, functions, classes, objects, and object methods |
+| [Lab 3](Lab3/) | Programs Implementation | Pattern, Temperature Conversion, Number Guessing, Fibonacci Series, Accept Sequence of Lines |
 
 ## Requirements
 
